@@ -1,3 +1,6 @@
+###
+  <img align="center" height="300" src=https://img1.picmix.com/output/pic/normal/2/4/8/8/11128842_b58b7.gif/>
+###
 <p align="left">I'm a student from 🇻🇳 <br>    I'm good with Game Developer side using Unity and C#<br>    I like FPS, Open World, Souls-Like games</p>
 
 ###
@@ -48,7 +51,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=quochuybb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img align="right" height="200" src="https://img1.picmix.com/output/pic/normal/2/4/8/8/11128842_b58b7.gif"  />
+  <img align="right" height="220" src="https://img1.picmix.com/output/pic/normal/2/4/8/8/11128842_b58b7.gif"  />
 </div>
 
 ###
