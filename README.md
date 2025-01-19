@@ -1,6 +1,4 @@
-###
-  <img align="center" height="300" src=https://img1.picmix.com/output/pic/normal/2/4/8/8/11128842_b58b7.gif/>
-###
+<img align="center" height="300" src=https://img1.picmix.com/output/pic/normal/2/4/8/8/11128842_b58b7.gif/>
 <p align="left">I'm a student from 🇻🇳 <br>    I'm good with Game Developer side using Unity and C#<br>    I like FPS, Open World, Souls-Like games</p>
 
 ###
