@@ -5,7 +5,7 @@
 <p align="left">🔭 I’m currently working on project_dungeon<br> 🌱 I’m currently learning Golang and Unity<br> 📫 How to reach me nqhsktt1@gmail.com<br>⚡ Fun fact I love play Souls-like games</p>
 
 ###
-  <img align="center" height="300" src="  https://i.pinimg.com/originals/d2/40/dd/d240ddbcf97be8749949be6360a02bd9.gif"/>
+  <img align="center" height="300" src="https://i.pinimg.com/originals/d2/40/dd/d240ddbcf97be8749949be6360a02bd9.gif"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quochuybb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
