@@ -1,8 +1,8 @@
-<h5 align="left">🔭 I’m currently working on project_dungeon<br> 🌱 I’m currently learning Golang and Unity<br> 📫 How to reach me nqhsktt1@gmail.com<br>⚡ Fun fact I love play Souls-like games</h5>
+<h4 align="left">I'm a student from 🇻🇳 <br>    <br>I'm good with Game Developer side using Unity and C#<br>   <br> I like FPS, Open World, Souls-Like games</h4>
 
 ###
 
-<img align="right" height="150" src="https://i.ytimg.com/vi/EoNgt_MEHfo/maxresdefault.jpg"  />
+<h4 align="left">🔭 I’m currently working on project_dungeon<br> 🌱 I’m currently learning Golang and Unity<br> 📫 How to reach me nqhsktt1@gmail.com<br>⚡ Fun fact I love play Souls-like games</h4>
 
 ###
 
@@ -23,6 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+
+###
+
+<img align="right" height="100" src="https://i.ytimg.com/vi/EoNgt_MEHfo/maxresdefault.jpg"  />
 
 ###
 
