@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on project_dungeon<br> 🌱 I’m currently learning Golang and Unity<br> 📫 How to reach me nqhsktt1@gmail.com<br>⚡ Fun fact I love play Souls-like games</p>
+<p align="left">🔭 I’m currently working on project_dungeon<br> 🌱 I’m currently learning C/C++, C# and Unity<br> 📫 How to reach me nqhsktt1@gmail.com<br>⚡ Fun fact I love play Souls-like games</p>
 
 ###
   <img align="center" height="300" src="https://i.pinimg.com/originals/d2/40/dd/d240ddbcf97be8749949be6360a02bd9.gif"/>
